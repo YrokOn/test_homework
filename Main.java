@@ -1,2 +1,5 @@
-public static main() {
+public class Praktikum {
+    public static main() {
+
+    }
 }
